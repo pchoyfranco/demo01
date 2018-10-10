@@ -7,3 +7,4 @@
 - Alex Meregildo
 - Hector Lindley
 - Patrick Salguero
+- Jeisson Espinoza
