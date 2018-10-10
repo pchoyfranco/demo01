@@ -8,3 +8,5 @@
 - Hector Lindley
 - Patrick Salguero
 - Jeisson Espinoza
+- Bill Gates
+- Elon Musk
