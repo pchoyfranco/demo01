@@ -7,6 +7,6 @@ function sumar(num1, num2){
 }
 
 function sumar(num1, num2){
-    return new Promise((resolve, resolver) =>  (num1 + num2);    
+    return new Promise((resolve, resolver) =>  (num1 + num2))    
 }
 
