@@ -10,3 +10,7 @@
 - Jeisson Espinoza
 - Bill Gates
 - Elon Musk
+- Carlos Duran
+
+## Sesion 02
+- Trabajando colaborativamente con GitHub o BitBucket
