@@ -1,4 +1,4 @@
-# Proyecto Ejemplo GitHub
+# Proyecto Ejemplo GitHub & BitBucket
 
 ### Integrantes
 
@@ -14,3 +14,6 @@
 
 ## Sesion 02
 - Trabajando colaborativamente con GitHub o BitBucket
+- Crear rama: git branch <nombre_rama>
+- Eliminar rama: git branch -D <nombre_rama>
+- Ir a rama: git checkout <nombre_rama>
